@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fotag</string>
+    <string name="clear">clear</string>
+    <string name="load">load</string>
+    <string name="reset">reset</string>
+    <string name="img">reset</string>
+</resources>
