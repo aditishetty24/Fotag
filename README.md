@@ -1,9 +1,9 @@
-Android Application: Fotag - Photo Rating App
+## Android Application: Fotag - Photo Rating App
 
+### Functionalities:
 
-Functionalities:
-
-Custom ToolBar [From Left to Right]: Clear All Images, Load 10 Images, Rating Filter, Reset Button to clear the Rating Filter
+**Custom ToolBar** [From Left to Right]:
+Clear All Images, Load 10 Images, Rating Filter, Reset Button to clear the Rating Filter
 
 The Clear All Images button will remove all the images and clear the Rating Filter on the toolbar.
 
@@ -25,12 +25,15 @@ The X button below the Rating Bar for each image will clear the Rating for that 
 When rotating the phone, the orientation is now Horizontal. The grid now has 2 columns with scrolling enabled and the Ratings of the images, the Rating of the Filter on the toolbar, and the displayed images will remain the same from Portrait Mode.
 
 
-** Before app loads, there might be a Dialog Box saying Google Play is not working, just click on close app. **
+**Before app loads, there might be a Dialog Box saying Google Play is not working, just click on close app.**
 
-Bugs: Clicking on the picture should enlarge it
+### Bugs: 
+1. Clicking on the picture should enlarge it
+
+### Features to be added:
+1. Upload pictures from device
  
-
-Development Environment:
+### Development Environment:
 
 Android Studio 3.1.3
 AVD: Pixel, Android 8.0 (Oreo, API 26)
